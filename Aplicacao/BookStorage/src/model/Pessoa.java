@@ -4,18 +4,12 @@ public abstract class Pessoa {
 	String nome;
 	String email;
 	String sexo;
-	int idade;
 	String cpf;
-	
-	
-	
-	
-	
+
 	public Pessoa(String nome, String email, String sexo, int idade, String cpf) {
 		this.nome = nome;
 		this.email = email;
 		this.sexo = sexo;
-		this.idade = idade;
 		this.cpf = cpf;
 	}
 	public String getNome() {
@@ -35,12 +29,6 @@ public abstract class Pessoa {
 	}
 	public void setSexo(String sexo) {
 		this.sexo = sexo;
-	}
-	public int getIdade() {
-		return idade;
-	}
-	public void setIdade(int idade) {
-		this.idade = idade;
 	}
 	public String getCpf() {
 		return cpf;

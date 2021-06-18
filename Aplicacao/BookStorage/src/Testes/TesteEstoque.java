@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 import org.junit.Before;
 import org.junit.Test;
 
-import model.Estoque;
+import controle.Estoque;
 import model.Livro;
 
 public class TesteEstoque {
