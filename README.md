@@ -2,7 +2,7 @@
 Repositório feito para o trabalho de engenharia 2 da faculdade FATEC de Mogi das Cruzes /2021 
 
 Autores:
-RA:1840481913001  Nome: Daniel Lucas de Almeida
+<br>RA:1840481913001  Nome: Daniel Lucas de Almeida
 <br>RA:1840481922018  Nome: Lucas Alves camargo Pinto
 
 
