@@ -8,9 +8,10 @@ public class MenuEstoque {
 	
 	// cadastros de livros automatico, apenas para medidas de 
 	// testes. O projeto em si não consta com esses atributos
-	static Livro book = new Livro(1,"Piratas do caribe");
-	static Livro book1 = new Livro(2,"Harry Potter"); // cadastrando o ID e o nome do book
-	static Livro book2 = new Livro(3,"a");
+	
+	static Livro book = new Livro(1,"1984","George Orwell", 25.0f,40.0f);
+	static Livro book1 = new Livro(2,"As Viagens de Gulliver", "Jonathan Swift", 10.0f, 25.0f); // cadastrando o ID e o nome do book
+	static Livro book2 = new Livro(3,"Contato", "Carl Sagan", 12.5f, 20.0f);
 	
 	private static String menu = "----------Estoque--------------------"
 			+ "\n\n 1--> Pesquisar Estoque"

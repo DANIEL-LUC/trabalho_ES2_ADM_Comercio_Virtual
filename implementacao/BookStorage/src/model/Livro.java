@@ -14,11 +14,12 @@ public class Livro {
 		this.nome = nome;
 	}
 	
-	public Livro(int id, String nome, String autor, float custo) {
+	public Livro(int id, String nome, String autor, float custo, float preco) {
 		this.id = id;
 		this.nome = nome;
 		this.autor = autor;
 		this.custo = custo;
+		this.precoVenda = preco;
 	}
 	public Livro (int id, String nome) {
 		this.id = id;
