@@ -1,15 +1,8 @@
-# trabalho_ES2_ADM_Livraria_Virtual
-Repositório feito para o trabalho de engenharia 2 da faculdade FATEC de Mogi das Cruzes /2021 
-
-Autores:
-RA:1840481913001  Nome: Daniel Lucas de Almeida
+# Instruções para executar o codigo com a implementação
 
 
-<h3>Descrição do Projeto:</h3>
+<h3>Descrição</h3>
 
-O projeto se trata de um sistema gerenciador para livrarias virtuais que não possuem uma plataforma de venda. Um fenomeno atual que vem crescendo nas redes sociais, principalmente no <b>instagram</b>, são perfis de lojas virtuais, que não possuem uma plataforma de venda e utilizam a Rede social como uma vitrine virtual e fazem suas vendas e administração de forma arcaica, recebendo seu pedido via mensagem direta, fazendo seu pagamento de forma direta, seja por pagamento na entrega (nos casos em que o vendedor entrega) ou via deposito/PIX e o vendedor se encarrega de toda a organização do seu estoque e pedidos manualmente.
-
-Este projeto visa ajudar na organização desde tipo de comércio oferecendo um meio de se gerenciar o estoque de livros, gerenciar os pedidos de venda e um cadastro de cliente. 
-
-A linguagem de programação escolhida foi o <b>JAVA</b> 
+Faça o download do arquivo, abra ele em seu compilador java e execute o codigo. O codigo contem internamente alguns livros cadastrados apenas para testes e avaliação das funcionalidade, para que não seja preciso realizar cadastreamento de livro com o objetivo final verificar a função de listagem de livros, por exemplo. A tela inicial é um menu onde apresenta as principais funcionalidades, teste as uma a uma de acordo com as orientações.
+<br> Obrigado pela atenção
 
